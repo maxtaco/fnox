@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.24.1](https://github.com/jdx/fnox/compare/v1.24.0..v1.24.1) - 2026-05-09
+
+### 🐛 Bug Fixes
+
+- **(config)** preserve secret table formatting by [@jdx](https://github.com/jdx) in [#467](https://github.com/jdx/fnox/pull/467)
+- **(shell)** prevent shell expansion of secret values in bash/zsh activation by [@jdx](https://github.com/jdx) in [#473](https://github.com/jdx/fnox/pull/473)
+
+### 📚 Documentation
+
+- clarify mise env plugin status by [@jdx](https://github.com/jdx) in [#472](https://github.com/jdx/fnox/pull/472)
+
 ## [1.24.0](https://github.com/jdx/fnox/compare/v1.23.1..v1.24.0) - 2026-05-06
 
 ### 🚀 Features
